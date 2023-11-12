@@ -1,0 +1,14 @@
+C:\Users\Bartosz\Documents\Coding\VB\Pong\bin\Debug\Pong.exe.config
+C:\Users\Bartosz\Documents\Coding\VB\Pong\bin\Debug\Pong.exe
+C:\Users\Bartosz\Documents\Coding\VB\Pong\bin\Debug\Pong.pdb
+C:\Users\Bartosz\Documents\Coding\VB\Pong\bin\Debug\Pong.xml
+C:\Users\Bartosz\Documents\Coding\VB\Pong\obj\Debug\Pong.vbproj.AssemblyReference.cache
+C:\Users\Bartosz\Documents\Coding\VB\Pong\obj\Debug\Pong.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Bartosz\Documents\Coding\VB\Pong\obj\Debug\Pong.Form1.resources
+C:\Users\Bartosz\Documents\Coding\VB\Pong\obj\Debug\Pong.Form2.resources
+C:\Users\Bartosz\Documents\Coding\VB\Pong\obj\Debug\Pong.Resources.resources
+C:\Users\Bartosz\Documents\Coding\VB\Pong\obj\Debug\Pong.vbproj.GenerateResource.cache
+C:\Users\Bartosz\Documents\Coding\VB\Pong\obj\Debug\Pong.vbproj.CoreCompileInputs.cache
+C:\Users\Bartosz\Documents\Coding\VB\Pong\obj\Debug\Pong.exe
+C:\Users\Bartosz\Documents\Coding\VB\Pong\obj\Debug\Pong.xml
+C:\Users\Bartosz\Documents\Coding\VB\Pong\obj\Debug\Pong.pdb

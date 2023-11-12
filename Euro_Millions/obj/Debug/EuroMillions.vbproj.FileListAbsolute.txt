@@ -1,0 +1,13 @@
+C:\Users\Bartosz\Documents\Coding\VB\EuroMillions\bin\Debug\EuroMillions.exe.config
+C:\Users\Bartosz\Documents\Coding\VB\EuroMillions\bin\Debug\EuroMillions.exe
+C:\Users\Bartosz\Documents\Coding\VB\EuroMillions\bin\Debug\EuroMillions.pdb
+C:\Users\Bartosz\Documents\Coding\VB\EuroMillions\bin\Debug\EuroMillions.xml
+C:\Users\Bartosz\Documents\Coding\VB\EuroMillions\obj\Debug\EuroMillions.vbproj.AssemblyReference.cache
+C:\Users\Bartosz\Documents\Coding\VB\EuroMillions\obj\Debug\EuroMillions.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Bartosz\Documents\Coding\VB\EuroMillions\obj\Debug\EuroMillions.Form1.resources
+C:\Users\Bartosz\Documents\Coding\VB\EuroMillions\obj\Debug\EuroMillions.Resources.resources
+C:\Users\Bartosz\Documents\Coding\VB\EuroMillions\obj\Debug\EuroMillions.vbproj.GenerateResource.cache
+C:\Users\Bartosz\Documents\Coding\VB\EuroMillions\obj\Debug\EuroMillions.vbproj.CoreCompileInputs.cache
+C:\Users\Bartosz\Documents\Coding\VB\EuroMillions\obj\Debug\EuroMillions.exe
+C:\Users\Bartosz\Documents\Coding\VB\EuroMillions\obj\Debug\EuroMillions.xml
+C:\Users\Bartosz\Documents\Coding\VB\EuroMillions\obj\Debug\EuroMillions.pdb
