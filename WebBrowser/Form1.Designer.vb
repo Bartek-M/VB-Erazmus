@@ -96,6 +96,7 @@ Partial Class Form1
         Me.ProgressBar1.Name = "ProgressBar1"
         Me.ProgressBar1.Size = New System.Drawing.Size(520, 14)
         Me.ProgressBar1.TabIndex = 6
+        Me.ProgressBar1.Value = 1
         '
         'Button5
         '

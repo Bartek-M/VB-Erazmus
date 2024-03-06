@@ -31,7 +31,7 @@
     End Sub
 
     Private Sub WebBrowser1_ProgressChanged(sender As Object, e As WebBrowserProgressChangedEventArgs) Handles WebBrowser1.ProgressChanged
-        ProgressBar1.Value = e.CurrentProgress
+        'ProgressBar1.Value = e.CurrentProgress
     End Sub
 
     Private Sub WebBrowser1_Navigating(sender As Object, e As WebBrowserNavigatingEventArgs) Handles WebBrowser1.Navigating
