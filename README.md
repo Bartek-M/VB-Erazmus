@@ -1,4 +1,6 @@
-# Projects made during Erasmus Scholarship
+# VB - Erasmus
+
+
 
 - Connect 4
 - Euro Millions
@@ -6,3 +8,5 @@
 - Pong
 - TicTacToe
 - Web Browser
+
+## Setup
